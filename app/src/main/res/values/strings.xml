@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="Textview">Iniciar Sesión</string>
+    <string name="Textview2">Usuario o Correo Electrónico :</string>
+    <string name="Textview3">Contraseña :</string>
+    <string name="txt_correo">example: pepitoperez@hotmail.com</string>
+    <string name="Textview4">No tienes sesión con nosotros?</string>
+    <string name="Textview5">Registrate</string>
+    <string name="Textview7">Aqui</string>
+    <string name="Textview8">¿Olvidaste tu contraseña?</string>
+    <string name="Textview9">Iniciar Sesión Mediante</string>
+    <string name="IB">Gmail</string>
+    <string name="IB2">Facebook</string>
+    <string name="IB3">Intagram</string>
+    <string name="Btn">Ingresar</string>>
+
+    <string name="Textview6">Registrar Cuenta</string>
+    <string name="Textview10">Nombre :</string>
+    <string name="Textview11">Correo Electrónico :</string>
+    <string name="Textview12">Contraseña :</string>
+    <string name="Textview13">Confirmar Contraseña :</string>
+    <string name="Textview14">Dirección :</string>
+    <string name="Textview16">Fecha de Nacimiento :</string>
+    <string name="IB5">Guardar</string>
+    <string name="IB6">Cancelar</string>
+    <string name="IBDate">Date</string>
+</resources>
